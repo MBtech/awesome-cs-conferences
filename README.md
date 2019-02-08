@@ -10,6 +10,8 @@ The links for each conference will take you to the latest iteration of the webpa
 
 Green box next to deadline represents currently open CFP and blue box represents soon to open CFP.
 
+**Note: Deadlines mentioned here are abstract deadlines if the abstract and full submission deadlines are separate for a conference.**
+
 Systems Conferences
 ---------------
 | Conference| Submission Deadline | Conference year|
