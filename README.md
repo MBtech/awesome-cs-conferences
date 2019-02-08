@@ -1,9 +1,7 @@
 Awesome CS Conferences
 =============================
 
-.. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-   :alt: Awesome
-   :target: https://github.com/sindresorhus/awesome
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 List presented here are in no particular order right now.
 The position of a conference in the list does not reflect any kind of ranking.
@@ -55,8 +53,9 @@ Machine Learning:
 |NIPS|May 2019|2019|
 |ICLR|Sept 2019|2019|
 |ICML|Jan 2020|2020|
+
 Security Conferences:
-----------
+---------------------
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
 |USENIX Security|15th Feb, 2019|2019|
