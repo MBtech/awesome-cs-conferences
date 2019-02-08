@@ -60,7 +60,7 @@ Security Conferences:
 ---------------------
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
-|USENIX Security|15th Feb, 2019|2019|
+|USENIX Security|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 15th Feb, 2019|2019|
 
 Misc Academic Conferences:
 ----------
