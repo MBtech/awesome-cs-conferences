@@ -24,15 +24,17 @@ Systems Conferences
 |ICDE|May/Oct 2019|2020|
 |VLDB|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 1st of every month|2019/2020|
 |ATC|Jan 2020|2020|
-|SOSP|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 17 April, 2019|2019|
+|SOSP|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 17th April, 2019|2019|
 |IC2E|Nov 2019|2020|
 |SC|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 2nd April 2019|2019|
 |SIGMOD|July/Oct 2019|2020|
 |ASPLOS|July 2019|2020|
-|Middleware|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 10 May, 2019|2019|
+|Middleware|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 10th May, 2019|2019|
 |SysML|Sept 2019|2020|
 |NDSS|August 2019|2020|
-
+|FAST|Sept 2019|2020|
+|SIGMOD|July/Oct 2019|2020|
+|HPDC|Jan 2020|2020|
 
 Database Conferences:
 ---------------------
@@ -40,6 +42,7 @@ Database Conferences:
 |-----------|-------------------------------|------|
 |VLDB|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 1st of every month|2019/2020|
 |SIGMOD|July/Oct 2019|2020|
+|PODS|June/Dec 2019|2020|
 
 Networks and Communications Conferences:
 ---------------------
@@ -55,6 +58,7 @@ Machine Learning:
 |NIPS|May 2019|2019|
 |ICLR|Sept 2019|2019|
 |ICML|Jan 2020|2020|
+|SysML|Sept 2019|2020|
 
 Security Conferences:
 ---------------------
@@ -66,13 +70,17 @@ Misc Academic Conferences:
 ----------
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
-|SIGMETRICS|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 11th Feb, 2019|2019|
+|SIGMETRICS|Aug/Oct, 2019|2020|
+|SOUPS|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 21st Feb, 2019|2019|
 
 Workshops:
 ----------
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
-|HotCloud|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 6 March, 2019|2019|
+|HotCloud|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 6th March, 2019|2019|
+|HotStorage|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 13th March, 2019|2019|
+|HotEdge|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 14th March, 2019|2019|
+|HotNets| July, 2019|2019|
 
 Developer Conferences:
 ---------------------
