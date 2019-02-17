@@ -19,7 +19,7 @@ Systems Conferences
 |NSDI|Sept 2019|2020|
 |OSDI|![#1589F0](https://placehold.it/15/1589F0/000000?text=+) April 2019|2020|
 |EuroSys|Sept 2019|2020|
-|SoCC|May 2019|2020|
+|SoCC|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 3 Jun 2019|2020|
 |ICDCS|Jan 2020|2020|
 |ICDE|May/Oct 2019|2020|
 |VLDB|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 1st of every month|2019/2020|
@@ -43,6 +43,7 @@ Database Conferences:
 |VLDB|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 1st of every month|2019/2020|
 |SIGMOD|July/Oct 2019|2020|
 |PODS|June/Dec 2019|2020|
+|KDD|Feb 2020|2020|
 
 Networks and Communications Conferences:
 ---------------------
@@ -50,6 +51,10 @@ Networks and Communications Conferences:
 |-----------|-------------------------------|------|
 |NSDI|Sept 2019|2020|
 |SIGCOMM|Jan 2020|2020|
+|INFOCOM|July 2019|2020|
+|MobiCom|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 8 March 2019|2020|
+|IMC|May 2019|2020|
+
 
 Machine Learning:
 ----------------
@@ -64,7 +69,8 @@ Security Conferences:
 ---------------------
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
-|USENIX Security|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 15th Feb, 2019|2019|
+|USENIX Security| 2020 |2020|
+|CCS|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 15 May/ 1 Sept 2019|2019|
 
 Misc Academic Conferences:
 ----------
@@ -81,6 +87,12 @@ Workshops:
 |HotStorage|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 13th March, 2019|2019|
 |HotEdge|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 14th March, 2019|2019|
 |HotNets| July, 2019|2019|
+
+Competitions:
+-------------
+| Competition | Submission Deadline | Year|
+|-----------|-------------------------------|------|
+|KDD Cup|||
 
 Developer Conferences:
 ---------------------
