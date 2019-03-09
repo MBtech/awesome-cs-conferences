@@ -17,7 +17,7 @@ Systems Conferences
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
 |NSDI|Sept 2019|2020|
-|OSDI|![#1589F0](https://placehold.it/15/1589F0/000000?text=+) April 2019|2020|
+|OSDI|April 2020|2020|
 |EuroSys|Sept 2019|2020|
 |SoCC|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 3 Jun 2019|2020|
 |ICDCS|Jan 2020|2020|
@@ -52,8 +52,8 @@ Networks and Communications Conferences:
 |NSDI|Sept 2019|2020|
 |SIGCOMM|Jan 2020|2020|
 |INFOCOM|July 2019|2020|
-|MobiCom|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 8 March 2019|2020|
-|IMC|May 2019|2020|
+|MobiCom|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 14 March 2019|2020|
+|IMC|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 6 May 2019|2019|
 
 
 Machine Learning:
@@ -77,13 +77,13 @@ Misc Academic Conferences:
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
 |SIGMETRICS|Aug/Oct, 2019|2020|
-|SOUPS|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 21st Feb, 2019|2019|
+|SOUPS| Feb, 2020|2020|
 
 Workshops:
 ----------
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
-|HotCloud|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 6th March, 2019|2019|
+|HotCloud|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 12th March, 2019|2019|
 |HotStorage|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 13th March, 2019|2019|
 |HotEdge|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 14th March, 2019|2019|
 |HotNets| July, 2019|2019|
