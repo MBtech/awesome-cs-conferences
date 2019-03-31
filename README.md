@@ -16,7 +16,7 @@ Systems Conferences
 ---------------
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
-|NSDI|Sept 2019|2020|
+|NSDI|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 12, Sept 2019|2020|
 |OSDI|April 2020|2020|
 |EuroSys|Sept 2019|2020|
 |SoCC|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 3 Jun 2019|2020|
@@ -71,6 +71,7 @@ Security Conferences:
 |-----------|-------------------------------|------|
 |USENIX Security| 2020 |2020|
 |CCS|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 15 May/ 1 Sept 2019|2019|
+|SP|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 1st of every month|2020|
 
 Misc Academic Conferences:
 ----------
