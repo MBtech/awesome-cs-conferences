@@ -19,21 +19,20 @@ Systems Conferences
 |NSDI|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 12, Sept 2019|2020|
 |OSDI|April 2020|2020|
 |EuroSys|Sept 2019|2020|
-|SoCC|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 3 Jun 2019|2020|
+|SoCC|Jun 2020|2020|
 |ICDCS|Jan 2020|2020|
-|ICDE|May/Oct 2019|2020|
+|ICDE|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 8th, Oct 2019|2020|
 |VLDB|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 1st of every month|2019/2020|
 |ATC|Jan 2020|2020|
-|SOSP|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 17th April, 2019|2019|
+|SOSP|April, 2020|2020|
 |IC2E|Nov 2019|2020|
-|SC|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 2nd April 2019|2019|
-|SIGMOD|July/Oct 2019|2020|
-|ASPLOS|July 2019|2020|
-|Middleware|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 10th May, 2019|2019|
+|SC|April 2020|2020|
+|SIGMOD|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 9th, July 2019|2020|
+|ASPLOS|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 9th, August 2019|2020|
+|Middleware|May 2020|2020|
 |SysML|Sept 2019|2020|
-|NDSS|August 2019|2020|
-|FAST|Sept 2019|2020|
-|SIGMOD|July/Oct 2019|2020|
+|NDSS|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 13th, Sept 2019|2020|
+|FAST|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 26th, Sept 2019|2020|
 |HPDC|Jan 2020|2020|
 
 Database Conferences:
@@ -41,7 +40,7 @@ Database Conferences:
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
 |VLDB|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 1st of every month|2019/2020|
-|SIGMOD|July/Oct 2019|2020|
+|SIGMOD|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 9th, July 2019|2020|
 |PODS|June/Dec 2019|2020|
 |KDD|Feb 2020|2020|
 
@@ -49,19 +48,19 @@ Networks and Communications Conferences:
 ---------------------
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
-|NSDI|Sept 2019|2020|
+|NSDI|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 12, Sept 2019|2020|
 |SIGCOMM|Jan 2020|2020|
-|INFOCOM|July 2019|2020|
+|INFOCOM|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 24th, July 2019|2020|
 |MobiCom|March 2020|2021|
-|IMC|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 6 May 2019|2019|
+|IMC|May 2020|2020|
 
 
 Machine Learning:
 ----------------
 | Conference| Submission Deadline | Conference year|
 |-----------|-------------------------------|------|
-|NIPS|May 2019|2019|
-|ICLR|Sept 2019|2019|
+|NIPS|May 2020|2020|
+|ICLR|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 27th, Sept 2019|2019|
 |ICML|Jan 2020|2020|
 |SysML|Sept 2019|2020|
 
@@ -87,7 +86,7 @@ Workshops:
 |HotCloud|March, 2020|2020|
 |HotStorage|March, 2020|2020|
 |HotEdge|March, 2020|2020|
-|HotNets| July, 2019|2019|
+|HotNets|June, 2020|2020|
 
 Competitions:
 -------------
