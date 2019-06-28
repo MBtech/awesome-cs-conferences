@@ -22,7 +22,7 @@ Systems Conferences
 |SoCC|Jun 2020|2020|
 |ICDCS|Jan 2020|2020|
 |ICDE|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 8th, Oct 2019|2020|
-|VLDB|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 1st of every month|2019/2020|
+|VLDB|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 1st of every month|2020|
 |ATC|Jan 2020|2020|
 |SOSP|April, 2020|2020|
 |IC2E|Nov 2019|2020|
