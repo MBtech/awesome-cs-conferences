@@ -18,7 +18,7 @@ Systems Conferences
 |-----------|-------------------------------|------|
 |NSDI|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 12, Sept 2019|2020|
 |OSDI|April 2020|2020|
-|EuroSys|Sept 2019|2020|
+|EuroSys|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 4, Nov 2019|2020|
 |SoCC|Jun 2020|2020|
 |ICDCS|Jan 2020|2020|
 |ICDE|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 8th, Oct 2019|2020|
@@ -78,6 +78,8 @@ Misc Academic Conferences:
 |-----------|-------------------------------|------|
 |SIGMETRICS|Aug/Oct, 2019|2020|
 |SOUPS| Feb, 2020|2020|
+|WWW|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 7, Oct 2019|2020|
+|PLDI|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 22, Nov 2019|2020|
 
 Workshops:
 ----------
