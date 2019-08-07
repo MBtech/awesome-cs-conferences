@@ -27,7 +27,7 @@ Systems Conferences
 |SOSP|April, 2020|2020|
 |IC2E|Nov 2019|2020|
 |SC|April 2020|2020|
-|SIGMOD|July 2020|2021|
+|SIGMOD|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 15th, Oct 2019|2020|
 |ASPLOS|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 9th, August 2019|2020|
 |Middleware|May 2020|2020|
 |SysML|Sept 2019|2020|
