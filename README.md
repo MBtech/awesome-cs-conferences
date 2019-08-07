@@ -50,7 +50,7 @@ Networks and Communications Conferences:
 |-----------|-------------------------------|------|
 |NSDI|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 12, Sept 2019|2020|
 |SIGCOMM|Jan 2020|2020|
-|INFOCOM|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 24th, July 2019|2020|
+|INFOCOM|July 2020|2021|
 |MobiCom|March 2020|2021|
 |IMC|May 2020|2020|
 
